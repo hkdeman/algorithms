@@ -11,3 +11,6 @@
   **QIterator** (in queue.py) is a representation of an Iterator of the Queue Data Structure.  
   **HashTable** (in hashtable.py) is a representation of the HashTable Data Structure using simple Hash Function.  
   **Hash Functions** (in hash_functions.py) are simple functions that can be used as hash functions.  
+  **Square Root** (in sqrt.py) contains differnet ways of calculating square root.  
+  **Bubble Sort** (in bubble_sort.py) is a simple representation of Bubble Sort.  
+  **Selection Sort** (in selection_sort.py) is a simple representation of Selection Sort.  
