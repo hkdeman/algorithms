@@ -9,3 +9,5 @@
   **Stack** (in stack.py) is a representation of a Stack Data Structure.  
   **Queue** (in queue.py) is a representation of a Queue Data Structure.  
   **QIterator** (in queue.py) is a representation of an Iterator of the Queue Data Structure.  
+  **HashTable** (in hashtable.py) is a representation of the HashTable Data Structure using simple Hash Function.  
+  **Hash Functions** (in hash_functions.py) are simple functions that can be used as hash functions.  
