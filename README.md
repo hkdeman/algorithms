@@ -14,3 +14,9 @@
   **Square Root** (in sqrt.py) contains differnet ways of calculating square root.  
   **Bubble Sort** (in bubble_sort.py) is a simple representation of Bubble Sort.  
   **Selection Sort** (in selection_sort.py) is a simple representation of Selection Sort.  
+
+
+# Design Patterns
+
+## Java
+ **composite_directory_example** (in designpatterns) is a an example for showing an implentation of System Directory using a Composite Design Pattern.  
