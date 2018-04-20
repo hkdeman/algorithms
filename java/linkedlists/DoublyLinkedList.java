@@ -95,5 +95,4 @@ public class DoublyLinkedList<E extends Comparable> {
         }
         return s + ")";
     }
-
 }
