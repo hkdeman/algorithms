@@ -52,6 +52,4 @@ public class Hashtable {
         return bucket.contains(s);
     }
 
-    
-
 }
