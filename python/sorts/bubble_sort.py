@@ -4,6 +4,3 @@ def bubble_sort(lis):
             if lis[i] > lis[i+1]:
                 lis[i],lis[i+1] = lis[i+1],lis[i]
     return lis
-
-
-
