@@ -20,3 +20,5 @@
 
 ## Java
  **composite_directory_example** (in designpatterns) is a an example for showing an implentation of System Directory using a Composite Design Pattern.  
+
+# questions
